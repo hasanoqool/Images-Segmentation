@@ -2,3 +2,4 @@ opencv-python
 Pillow
 tensorflow_docs
 tensorflow-datasets
+matplotlib
