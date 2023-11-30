@@ -20,23 +20,28 @@
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/accuracy.png)
 
 * <b>Sample OUT1:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
 
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_1.jpg)
 
 * <b>Sample OUT2:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
 
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_2.jpg)
 
 * <b>Sample OUT3:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
 
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_3.jpg)
 
 * <b>Sample OUT4:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
 
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_4.jpg)
 
 * <b>Sample OUT5:</b>
-
+    original image (left), ground truth mask (center), and predicted mask (right)
+    
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_5.jpg)
 
 ## Running yolov3.py
