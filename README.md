@@ -49,11 +49,11 @@
 
 * <b>loss:</b>
 
-    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/loss_1.png)
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/loss_2.png)
 
 * <b>accuracy:</b>
 
-    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/accuracy_1.png)
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/accuracy_2.png)
 
 * <b>Sample OUT1:</b>
     original image (left), ground truth mask (center), and predicted mask (right)
