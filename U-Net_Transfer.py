@@ -7,8 +7,7 @@ import tensorflow_docs as tfdocs
 import tensorflow_docs.plots
 from tensorflow.keras.applications import MobileNetV2
 from tensorflow.keras.layers import *
-from tensorflow.keras.losses import \
-    SparseCategoricalCrossentropy
+from tensorflow.keras.losses import SparseCategoricalCrossentropy
 from tensorflow.keras.models import *
 from tensorflow.keras.optimizers import RMSprop
 
@@ -165,7 +164,7 @@ class UNet(object):
         mosaic = np.hstack([image, gt_mask, pred_mask])
         mosaic = cv2.cvtColor(mosaic, cv2.COLOR_RGB2BGR)
 
-        cv2.imwrite(f'mosaic_{image_id}.jpg', mosaic)
+        cv2.imwrite(f'out3_{image_id}.jpg', mosaic)
 
     @staticmethod
     def _create_mask(prediction_mask):
@@ -207,7 +206,7 @@ VALIDATION_SUBSPLITS = 5
 VALIDATION_STEPS = VALIDATION_SIZE // BATCH_SIZE
 VALIDATION_STEPS //= VALIDATION_SUBSPLITS
 
-BUFFER_SIZE = 1000 
+BUFFER_SIZE = 1000
 
 train_dataset = (dataset['train']
                  .map(load_image, num_parallel_calls=AUTOTUNE)
@@ -223,7 +222,7 @@ test_dataset = (dataset['test']
 
 unet = UNet()
 unet.train(train_dataset,
-           epochs=30,
+           epochs=5,
            steps_per_epoch=STEPS_PER_EPOCH,
            validation_steps=VALIDATION_STEPS,
            validation_dataset=test_dataset)
