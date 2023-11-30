@@ -43,7 +43,7 @@
     original image (left), ground truth mask (center), and predicted mask (right)
 
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_5.jpg)
-
+#
 ## Running U-Net.py
 *  Train and evaluate a <b>U-Net</b> model from scratch.
 
@@ -79,7 +79,7 @@
     original image (left), ground truth mask (center), and predicted mask (right)
 
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_5_2.jpg)
-
+#
 ## Contact
 * Reach me out here: https://www.linkedin.com/in/hasanoqool/
 #
