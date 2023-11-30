@@ -41,10 +41,10 @@
 
 * <b>Sample OUT5:</b>
     original image (left), ground truth mask (center), and predicted mask (right)
-    
+
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_5.jpg)
 
-## Running yolov3.py
+## Running U-Net.py
 * object detector with <b>yolov3</b> from scratch.
 
 * <b>test1:</b>
