@@ -8,7 +8,7 @@
     * Implement Mask-RCNN
 
 
-## FCN.py
+## Running FCN.py
 * Build, train, and evaluate a <b>FCN image segmentation</b> model based on <b>VGG16</b>
 
 * <b>loss:</b>
