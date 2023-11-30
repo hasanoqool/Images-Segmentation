@@ -39,7 +39,7 @@ def load_image(dataset_element, train=True):
 
     return input_image, input_mask
 
-#build, train, and evaluate our FCN image segmentation model
+#build, train, and evaluate our FCN image segmentation model 
 class FCN(object):
     def __init__(self,
                  input_shape=(256, 256, 3),
