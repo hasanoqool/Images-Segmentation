@@ -207,7 +207,7 @@ VALIDATION_SUBSPLITS = 5
 VALIDATION_STEPS = VALIDATION_SIZE // BATCH_SIZE
 VALIDATION_STEPS //= VALIDATION_SUBSPLITS
 
-BUFFER_SIZE = 1000
+BUFFER_SIZE = 1000 
 
 train_dataset = (dataset['train']
                  .map(load_image, num_parallel_calls=AUTOTUNE)
