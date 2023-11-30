@@ -80,6 +80,42 @@
 
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_5_2.jpg)
 #
+## Running U-Net_Transfer.py
+*  Train and evaluate a <b>U-Net</b> model with transfer learning.
+
+* <b>loss:</b>
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/loss_3.png)
+
+* <b>accuracy:</b>
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/accuracy_3.png)
+
+* <b>Sample OUT1:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out3_1.jpg)
+
+* <b>Sample OUT2:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out3_2.jpg)
+
+* <b>Sample OUT3:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out3_3.jpg)
+
+* <b>Sample OUT4:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out3_4.jpg)
+
+* <b>Sample OUT5:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out3_5.jpg)
+
 ## Contact
 * Reach me out here: https://www.linkedin.com/in/hasanoqool/
 #
