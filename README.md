@@ -45,16 +45,40 @@
     ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_5.jpg)
 
 ## Running U-Net.py
-* object detector with <b>yolov3</b> from scratch.
+*  Train and evaluate a <b>U-Net</b> model from scratch.
 
-* <b>test1:</b>
+* <b>loss:</b>
 
-    ![1](https://github.com/hasanoqool/Object-Detection/blob/main/data/dog_after.png)
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/loss_1.png)
 
-* <b>test2:</b>
+* <b>accuracy:</b>
 
-    ![1](https://github.com/hasanoqool/Object-Detection/blob/main/data/car_after.png)
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/accuracy_1.png)
 
+* <b>Sample OUT1:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_1_2.jpg)
+
+* <b>Sample OUT2:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_2_2.jpg)
+
+* <b>Sample OUT3:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_3_2.jpg)
+
+* <b>Sample OUT4:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_4_2.jpg)
+
+* <b>Sample OUT5:</b>
+    original image (left), ground truth mask (center), and predicted mask (right)
+
+    ![1](https://github.com/hasanoqool/Images-Segmentation/blob/main/data/out_5_2.jpg)
 
 ## Contact
 * Reach me out here: https://www.linkedin.com/in/hasanoqool/
